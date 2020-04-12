@@ -1,15 +1,18 @@
-# DataScienceUdemy
-Data Science in python using sklearn 
-Following course in Machine Learning with Python by Dr. Anouar DALLI
-Provide here some script for datascience using sklearn and pandas in python (colab/jupyter has been given also)
+# Data Science in python using sklearn 
 
-01 Linear Regression
-02 Multiple Linear Regression 
-03 Logistic Regression
-04 knn 
-05 kmeans 
-06 PCA 
-07 Decision Tree
-08 Random Forest
+
+This repository contains python file and colab (equivalent to jupyter notebook file).
+
+This is following the course in Machine Learning with Python by Dr. Anouar DALLI
+Keywords: data science, sklearn, pandas, colab, python 
+
+1. Linear Regression
+1. Multiple Linear Regression 
+1. Logistic Regression
+1. knn 
+1. kmeans 
+1. PCA 
+1. Decision Tree
+1. Random Forest
 
 few examples with salary employees, hiring, wines,... 
